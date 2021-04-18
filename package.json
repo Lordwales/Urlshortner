@@ -1,0 +1,33 @@
+{
+  "name": "urlshortner",
+  "version": "1.0.0",
+  "description": "A URL Shortning Service",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lordwales/Urlshortner.git"
+  },
+  "keywords": [
+    "Url",
+    "Url-shortner",
+    "url",
+    "shortner"
+  ],
+  "author": "Olawale Tofade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lordwales/Urlshortner/issues"
+  },
+  "homepage": "https://github.com/Lordwales/Urlshortner#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.4",
+    "nanoid": "^3.1.22",
+    "prettier": "^2.2.1",
+    "valid-url": "^1.0.9"
+  }
+}
