@@ -37,6 +37,7 @@ Test is written in the test.js file in root folder
 npm run test
 ```
 
+**NOTE: You can also use NGINX server to implement the redirection by adding a rewrite rule for the InitialUrl in you nginx.config file**
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
